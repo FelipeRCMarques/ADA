@@ -86,7 +86,6 @@ WiFiServer server(80);
  
  
 String request = "";
-int LED_Pin = D1;
 
 int matriz[8][32];
  
